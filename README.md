@@ -15,4 +15,4 @@ Download the latest binaries from the [Releases](https://github.com/areedelahi/C
 | **Android** | [`compilogram-android.apk`](https://github.com/areedelahi/Compilogram-Releases/releases/latest/download/compilogram-android.apk) | Android Universal APK |
 
 ---
-Created by Areed Elahi (NUTECH 2026).
+Created by Areed Elahi.
